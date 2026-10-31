@@ -2,34 +2,15 @@
   "users": [
     {
       "id": "1",
-      "name": "Umar",
-      "pass": "um"
-    },
-    {
-      "id": "2",
-      "name": "talish",
-      "pass": "tal"
-    },
-    {
-      "id": "3",
-      "name": "toheed",
-      "pass": "th"
-    },
-    {
-      "id": "I8Ubf2nwxSg",
-      "name": "new",
-      "pass": "new"
-    },
-    {
-      "id": "KpihM8dcQ38",
-      "name": "new",
-      "pass": "new"
-    },
-    {
-      "id": "9QTqsFsbWr8",
-      "name": "new",
-      "pass": "new"
+      "name": "Umar"
     }
   ],
-  "$schema": "./node_modules/json-server/schema.json"
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Learn Vue",
+      "completed": false,
+      "userId": "1"
+    }
+  ]
 }
